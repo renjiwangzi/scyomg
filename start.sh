@@ -8,8 +8,8 @@ export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
 export ARGO_AUTH=${ARGO_AUTH:-''}
 export WSPATH=${WSPATH:-'argo'}
-export UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
-export CFIP=${CFIP:-'icook.hk'}
+export UUID=${UUID:-'5bfef9e0-91d5-457f-a7f8-6c9af35131d5'}
+export CFIP=${CFIP:-'a.jiahuan.tk'}
 export NAME=${NAME:-''}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 
